@@ -1,0 +1,128 @@
+.navbar-brand{
+    margin-left: 84%;
+    margin-top: 7px;
+    color:#9a1213 ;
+    
+    
+    
+    }
+    
+    .navbar{
+        padding: 10px;
+        background-color: orange;
+        position: sticky;
+        top: 0;
+        
+        
+    }
+    
+    .footer{
+        padding: 15px;
+        background-color: orange;
+        margin-top: 40px;
+    }
+    
+    .footer-brand{
+        
+        
+        color:#9a1213 ;
+        
+        
+        
+      
+        
+        
+        }
+    
+    #car1{
+        border: solid 2px orange;
+        border-radius: 5PX;
+        padding: 20px;
+        margin: 10px;
+        
+    
+    }
+    .btn0{
+        padding: 18px;
+        
+        
+    }
+    
+    .btn{
+        border-radius: 0px;
+        width: 100px;
+        padding: 0px 0px;
+        background-color: orange;
+        color: #9a1213;
+        margin-top: 1px;
+        font-size: small;
+        font-weight: bold;
+        
+        
+    }
+    
+    #car2{
+        border: solid 2px ORANGE;
+        border-radius: 5PX;
+        padding: 20px;
+    
+        
+    }
+    
+    #car21{
+        border: solid 2px ORANGE;
+        border-radius: 5PX;
+        
+    }
+    
+    .na{
+        margin-top: 25px;
+    }
+    
+    .ei{
+        margin-top: 5px;
+    }
+    
+    
+    .form-row {
+        
+        align-items: center;
+        justify-content: space-between;
+        margin: 8px;
+      }
+      
+      
+      .form-row input[type="text"],
+      .form-row input[type="number"] {
+        padding: 1px;
+        width: 160PX;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        font-size: small;
+        
+      }
+
+      label{
+        font-weight: bold;
+        font-size: small;
+      }
+      
+      
+    
+    
+      .img5{
+        width: 110px;
+        height: 110px;
+      }
+    
+      .img1{
+        width: 130px;
+        height: 110px;
+
+      }
+    
+    .alligner{
+        text-align: justify;
+        font-size: small;
+    }
+     
